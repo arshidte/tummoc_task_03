@@ -1,5 +1,7 @@
 # tummoc_task_04
 
+Run 'npm start'
+
 To show the working of event loop, let's fetch a data from an external source.
 
 With the help of below api call, you can send name of a country as 'name' through request.body as json and it will return you the details of the country.
