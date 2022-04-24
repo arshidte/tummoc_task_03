@@ -18,4 +18,4 @@ Eventloop has multiple phases. Each of them handles various types of events. The
 
 The first phase will be managing the timer methods (setTimeOut, setInterval etc.)
 
-Fetching data from APIs will be managed by microtask queque. It has higher priority than callback queue.
+Fetching data from APIs will be managed by microtask queue. It has higher priority than callback queue.
